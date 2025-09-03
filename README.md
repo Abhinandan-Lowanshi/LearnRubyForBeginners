@@ -545,10 +545,6 @@ binding.pry  # You can type Ruby code here
 ## Resources for Learning Ruby
 
 - [Official Ruby Website](https://www.ruby-lang.org/) – Official documentation and downloads.
-- [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/) – Quick tutorial.
-- [Try Ruby Online](https://try.ruby-lang.org/) – Interactive Ruby playground.
-- [Ruby on Rails Guides](https://guides.rubyonrails.org/) – For web development with Ruby.
-- [RubyMonk](https://rubymonk.com/) – Free interactive tutorials.
 
 ---
 
